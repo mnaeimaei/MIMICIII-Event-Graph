@@ -50,7 +50,7 @@ First  Step1.py
 
 Run Step1.py
 
-Create a new project in Neo4J, Addi a Local DBMS to that project, and select a password (1234 recommended).
+Create a new project in Neo4J, Addi a Local DBMS to that project, and select a password (12345678 recommended).
 Then in the project setting, allocate enough memory to the database, such as DBMS.memory.heap.max_size=20G
 import the output of the step1 in that Neo4j project (open folder/import)
 start Neo4J Project
